@@ -9,5 +9,7 @@ public class AppTest {
   public void shouldAnswerWithTrue() {
 	  System.out.println("This is a Maven Project ");
     Assert.assertTrue(true);
+    System.out.println("This is a Maven Project ");
+    Assert.assertTrue(true);
   }
 }
